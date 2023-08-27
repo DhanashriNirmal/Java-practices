@@ -21,7 +21,7 @@ public class Collection_Arraylist {
 		ArrayList<Integer> arraylist1=new ArrayList<Integer>();
 		arraylist1.add(100);
 		arraylist1.add(20);
-		arraylist1.add(30);
+		arraylist1.add(50);
 		//arraylist1.add(null);
 		arraylist1.add(30);
 		
